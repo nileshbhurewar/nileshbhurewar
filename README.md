@@ -21,13 +21,6 @@
 
 ---
 
-### 🚀 GitHub Stats
-
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshbhurewar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshbhurewar&layout=compact&theme=radical)
-
----
-
 ### 💼 Featured Projects
 
 | Project | Description | Tech Stack |
