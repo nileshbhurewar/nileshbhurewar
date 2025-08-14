@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm Nilesh Bhurewar
 
-[![GitHub followers](https://img.shields.io/github/followers/nileshbhurewar?label=Followers&style=social)](https://github.com/nileshbhurewar)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
