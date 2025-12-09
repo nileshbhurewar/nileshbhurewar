@@ -75,15 +75,6 @@ I am a passionate **Java Backend Developer** focused on building scalable applic
 
 > 📌 *"Learning by doing, growing by sharing."*
 
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshbhurewar\&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshbhurewar\&show_icons=true\&theme=radical)
-
----
-
 <!---
 nileshbhurewar/nileshbhurewar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
