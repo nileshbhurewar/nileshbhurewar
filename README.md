@@ -63,7 +63,7 @@ I am a passionate **Java Backend Developer** focused on building scalable applic
 | Project                                                                                                              | Description                                           | Tech Stack                                 |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------ |
 | [DevOpsify](https://github.com/nileshbhurewar/DevOpsify)                                                             | Comprehensive DevOps automation toolkit               | Docker, Jenkins, AWS, Terraform, Linux     |
-| [Cafe Management System](https://github.com/nileshbhurewar/cafe_management_system)                                   | Role-based authentication & menu/order management app | Spring Boot, Thymeleaf, MySQL, Bootstrap   |
+| [Cafe Management System](https://github.com/nileshbhurewar/cafe-management-system)                                   | Role-based authentication & menu/order management app | Spring Boot, Thymeleaf, MySQL, Bootstrap   |
 | [AWS Serverless Student Management](https://github.com/nileshbhurewar/AWS-Serverless-Student-Management-Application) | Serverless Student Record App using AWS               | Lambda, API Gateway, DynamoDB, HTML/CSS/JS |
 | [EasyCRUD](https://github.com/Rohit-1920/EasyCRUD)                                                                   | CRUD application with React & Spring Boot             | React, Spring Boot, MySQL                  |
 
